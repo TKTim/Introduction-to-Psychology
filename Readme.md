@@ -1,3 +1,6 @@
+"Open Yale Courses -- Introduction to Psychology"
+=
+
 * This website is written all by myself 
 * Please be aware that any copy from the page will need to specify where it from.
 
