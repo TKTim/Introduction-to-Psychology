@@ -26,20 +26,21 @@ As Lewis Carroll's Alice might have phrased it,
 >interneurons are the ones in between - they connect spinal motor and sensory neurons. As well as transferring signals between sensory and motor neurons,  interneurons can also communicate with each other, forming circuits of various complexity. 
 
 ![image](types-of-neurons-QBI.jpg)
-4. Neuron works like a gun, it either fire or it doesn't. Which means take it to Computer Science, it's 0 or 1.
 
-5. the way of you controlling your body is not 0 or 1. Sometimes it's gradual and sometimes it's intense.
+4. Neuron works like a gun, it either fire or it doesn't. From the perspective of information science, it's 0 or 1.
 
-6. The first one is the number of neurons firing. The second one is the frequency of firing in that something is more intense if it's "bang, bang, bang, bang, bang, bang" then [louder] "bang, bang, bang" and these are two ways through which neurons encode intensity.
+5. the way of you controlling or feeling your body is not 0 or 1. Sometimes it's gradual and sometimes it's intense.
 
-7. Alcohol is inhibitory, seems weird,but it inhibits the inhibitory parts of your brain. when your inhibitory parts wants you to controll yourself,Alcohol says "No". If you Ingest too much alcohol it will shut down excitatory parts of your brain and then you fall on the floor and pass out.
+6. The first one is the __number__ of neurons firing. The second one is the **frequency** of firing in that something is more intense if it's "bang, bang, bang, bang, bang, bang" then [louder] "bang, bang, bang" and these are two ways through which neurons encode intensity.
 
-8. Do you ever wonder why your brain looks wrinkled? That's because it's all crumpled. If you took out somebody's cortex and flattened it out, it would be two feet square, sort of like a nice--like a rug. 
+7. Alcohol is inhibitory, seems weird,but it inhibits the inhibitory parts of your brain. when your inhibitory parts wants you to control yourself,Alcohol says "No". If you Ingest too much alcohol it will shut down excitatory parts of your brain and then you fall on the floor and pass out.
+
+8. Do you ever wonder why your brain looks wrinkled? That's because it's all crumpled. If you took out somebody's cortex and flattened it out, it would be two feet square, sort of like a rug. 
 
 9. agnosia(失認症) is a disorder which isn't blindness because the person could still see perfectly well. Their eyes are intact but rather what happens in agnosia is they lose the ability to recognize certain things. Sometimes this is described as psychic blindness. 
 
 
-Please read the spech below, it summarized the main question that you will have during all the lesson.
+Please read the quotes below, it summarized the main question that you will have during all the lesson.
 ```
    Now, you might find this sort of project in the end to be repellant. 
    You might worry about how this, well, this meshes with humanist values.
