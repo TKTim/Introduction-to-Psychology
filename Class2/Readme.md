@@ -3,13 +3,13 @@ Class 2
 ## The lesson of brain and  Psychology
 
 ### Francis Crick says:
-```
-You, your joys and your sorrows, your memories and your ambitions, 
+
+>You, your joys and your sorrows, your memories and your ambitions, 
 your sense of personal identity and free will are in fact no more than the behavior of a vast assembly of nerve cells and their associated molecules. 
 
-As Lewis Carroll's Alice might have phrased it, 
+>As Lewis Carroll's Alice might have phrased it, 
 "you're nothing but a pack of neurons."
-```
+
 
 
 

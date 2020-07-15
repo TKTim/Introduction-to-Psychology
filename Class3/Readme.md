@@ -23,13 +23,16 @@ Class 3
 
 ### 3. falsifiability(可證偽性)
 >The issue of vagueness is summarized in a more technical way by the philosopher Karl Popper who described--who introduced the term of **falsifiability**. The idea of falsifiability is that what distinguishes science from non science is that scientific predictions make strong claims about the world and these claims are of a sort that they could be proven wrong. If they couldn't be proven wrong, they're not interesting enough to be science. 
->> To explain it simply. If something is not right and not wrong in the same time, it means it can't be prove to be one or another, which makes it a not falsifiable thing. And not falsifiable thing can't be called as a science. For example: horoscope(星座運勢), astrology(占星術) 
 
-### 4. Freud fails the test of falsifiability. because Freudian theory is often so vague and flexible that it can't really be tested in any reliable way. A big problem with this is a lot of Freudian theory is claimed to be validated in the course of psychoanalysis(精神分析).
+>To explain it simply. If something is not right and not wrong in the same time, it means it can't be prove to be one or another, which makes it a not falsifiable thing. And not falsifiable thing can't be called as a science. For example: horoscope(星座運勢), astrology(占星術) 
 
->Here are some fun conversations. 
->>Freud says to a patient, "You hate your mother." The patient says, "Wow. That makes sense." Freud says, "I'm right." 
->>>Freud says, "You hate your mother," and the patient says, "No, I don't. That's disgusting." Freud says, "Your anger shows this idea is painful to you. You have repressed it from consciousness. I am right."
+### 4. Freud fails the test of falsifiability. 
+
+>Because Freudian theory is often so vague and flexible that it can't really be tested in any reliable way. A big problem with this is a lot of Freudian theory is claimed to be validated in the course of psychoanalysis(精神分析).Here are some fun conversations:
+
+>Freud says to a patient, "You hate your mother." The patient says, "Wow. That makes sense." Freud says, "I'm right." 
+
+>Freud says, "You hate your mother," and the patient says, "No, I don't. That's disgusting." Freud says, "Your anger shows this idea is painful to you. You have repressed it from consciousness. I am right."
 
 ### 5. hazing is illegal but a remarkably successful tool. 
 >The more you pay for something the more you like it and the more pain you go through to get something the more you like it. From the standpoint of politics for instance, if you want loyal people in a political campaign, do not pay them. If you pay them, they'll like you less. If they volunteer, they'll like you more. 
