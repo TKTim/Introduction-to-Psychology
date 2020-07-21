@@ -1,6 +1,6 @@
 Class 3 
 =
-## The lesson of Sigmund Freud's Freudian theory
+## **The lesson of Sigmund Freud's Freudian theory**
 
 
 ### 1. Our mind is constantly determined by the three basic thing in our head, "id", "ego" and "superego". All of them are fighting and against each other, and the winner decide what move do we do.

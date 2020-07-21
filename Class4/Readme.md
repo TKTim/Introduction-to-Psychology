@@ -1,6 +1,6 @@
 Class4
 =
-## The lesson of unconscious,Behaviorism  & Reinforcement
+## **The lesson of unconscious,Behaviorism  & Reinforcement**
 
 ### Burrhus Frederic Skinner
 >He was an American psychologist, behaviorist.

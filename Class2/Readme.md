@@ -1,6 +1,6 @@
 Class 2
 =
-## The lesson of brain and  Psychology
+## **The lesson of brain and  Psychology**
 
 ### Francis Crick says:
 

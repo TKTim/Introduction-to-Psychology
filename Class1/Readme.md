@@ -1,5 +1,6 @@
 Class 1 
 =
+## **Introduction**
 >In today's lesson.Course readings and requirements are discussed. The five main branches of psychology are presented: 
 
 1. neuroscience, which is a study of the mind by looking at the brain; 
