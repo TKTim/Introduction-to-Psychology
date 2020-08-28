@@ -7,7 +7,7 @@ Class 11
  ---
 ## 1. Why we smile
 
-> Instead of we smile because we are happy, we smile because we are about to join a happy communication. There are some studings such like, the observation of bowling. bowler doesn't smile when he hit a strike, rather they smile after they turn around and face to the audience.
+> Instead of we smile because we are happy, we smile because we are about to join a happy communication. There are some reserchs such like, the observation of bowling. bowling player doesn't smile when he hit a strike, rather they smile after they turn around and face to the audience.
  ---
 ## 2. "Pan Am" smile or Duchenne smile
 >The one on the left is a smile of greeting. It's sometimes known as a "Pan Am" smile, which is a fake one.　Not many people can fake a Duchenne smile. And the big diffrent between these two is not in smile but the eyes.
@@ -21,7 +21,7 @@ Class 11
  ---
 
 ## 4. having cold (Virus thoughts)
-> If you have a cold, try to get away from your own selfish perspective, "I have a cold." Look at it from the perspective of the cold virus. The cold virus has evolved just as much as you evolved. And it's evolved due to survival and reproduction. 
+> If you have a cold, try to get away from your own selfish perspective. Look at it from the perspective of the cold virus. The cold virus has evolved just as much as you evolved. And it's evolved due to survival and reproduction. 
 
 ### 弓形蟲 (Toxoplasma gondii)
 >There's a parasite known as toxoplasmosis that lives in the bodies of rats. But it gets passed on when the rats get eaten by cats. And then it ends up in the cats' feces and then it ends up back in rats. If you are a rat and you have toxoplasmosis, you are perfectly healthy except for one thing. The toxoplasmosis rewires your brain and it makes you less afraid of cats. Now, again, this is not some sort of bizarre quirk of a humorous god. Rather, it's because this is a perfectly adaptive strategy of the toxoplasmosis virus.
