@@ -1,7 +1,7 @@
 Class 11
 =
 
-## ** Evolution, Emotion, and Reason: Emotions, Part I**
+## **Evolution, Emotion, and Reason: Emotions, Part I**
 
 >Throughout the course, what seems natural to us and try to make sense of it. And to that end we have to ask questions that you wouldn't normally ask. like why we think poop smells bad, why I feel angry when someone hit me.
  ---
@@ -34,7 +34,7 @@ Class 11
  ---
 
  ## 6. Harlow's Studies on Dependency in Monkeys
- > In this research, there are two parts. the psychologist Harlow performed a series of ingenious experiments with nonhuman primates distinguishing between what he called "wire mothers" and "cloth mothers." And you'll see illustrations of this to follow. Wire mothers are mothers that are built that they give food. They have a little nipple attached and you can drink from it and give food to the baby. And that's the baby's source of food. Cloth mothers don't give any food but they give warmth and comfort.
+ > In this research, there are two parts. the psychologist Harlow performed a series of ingenious experiments with nonhuman primates distinguishing between what he called **"wire mothers"** and **"cloth mothers."** And you'll see illustrations of this to follow. Wire mothers are mothers that are built that they give food. They have a little nipple attached and you can drink from it and give food to the baby. And that's the baby's source of food. Cloth mothers don't give any food but they give warmth and comfort.
 
  ### First, Monster coming.
  >In the first experiment, there is a scary monster coming in to the cage. The result is little monkey tends to go for cloth mother for help. 
